@@ -60,7 +60,7 @@ Clique em Copy para copiar a senha para a área de transferência do seu celular
 
 📸 Capturas de tela
 <div align="center"> 
-<img src="[https://drive.google.com/file/d/1TygfZmUZquRpqNhp2t2pnbvw188Z8Abn/view?usp=drive_link](https://drive.google.com/file/d/1TygfZmUZquRpqNhp2t2pnbvw188Z8Abn/view?usp=sharing)" width="300" alt="Tela inicial do app"/>
+<img src="https://drive.google.com/file/d/1TygfZmUZquRpqNhp2t2pnbvw188Z8Abn/view?usp=sharing" width="300" alt="Tela inicial do app"/>
 </div>
 
 📌 Status do projeto
